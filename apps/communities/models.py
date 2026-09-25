@@ -30,8 +30,25 @@ class Community(models.Model):
 
     def save(self, *args, **kwargs):
         if not self.slug:
-            self.slug = slugify(self.name)
+            self.slug = slugify(self.name)[:140] or "community"
+
         super().save(*args, **kwargs)
+
+        default_modules = [
+            ("home", True, 0),
+            ("members", True, 1),
+            ("events", False, 2),
+            ("businesses", False, 3),
+            ("discussions", False, 4),
+            ("shop", False, 5),
+            ("jobs", False, 6),
+            ("projects", False, 7),
+            ("resources", False, 8),
+        ]
+
+        for key, is_active, order in default_modules:
+            if not self.modules.filter(key=key).exists():
+                self.modules.create(key=key, is_active=is_active, order=order)
 
     @property
     def member_count(self):
