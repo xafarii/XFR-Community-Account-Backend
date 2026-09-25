@@ -15,8 +15,16 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.http import HttpResponse
+from django.urls import path, include
+
+
+def welcome(request):
+    return HttpResponse("Welcome to Xafarii API. Visit /api/ for endpoints.")
+
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path("", welcome),
+    path("admin/", admin.site.urls),
+    path("api/auth/", include("accounts.urls")),
 ]
