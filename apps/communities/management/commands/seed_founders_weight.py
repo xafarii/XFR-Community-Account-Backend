@@ -22,7 +22,7 @@ MEMBERS = [
     # (username, email, full_name, role, company, location, bio, interests)
     (
         "dera",
-        "dera@foundersweight.test",
+        "foundersweight@gmail.com",
         "Dera Ndidigwe",
         "Founder & Community Builder",
         "Founder's Weight",
@@ -32,7 +32,7 @@ MEMBERS = [
     ),
     (
         "achimba",
-        "aj@foundersweight.test",
+        "fausta@enakele.com",
         "Achimba Juayibim-Enakele",
         "CEO & Founder",
         "Nania by Achimba",
@@ -42,7 +42,7 @@ MEMBERS = [
     ),
     (
         "adedamola",
-        "ao@foundersweight.test",
+        "adedamola_olisa@yahoo.com",
         "Adedamola Olisa.",
         "Founder",
         "O'shedaa Consult",
@@ -52,7 +52,7 @@ MEMBERS = [
     ),
     (
         "akemi",
-        "akemi@foundersweight.test",
+        "akemiemmanuella8@gmail.com",
         "Akemi Emmanuella Oyinmiebi",
         "Business Owner",
         "Luftballoons & Co",
@@ -62,17 +62,17 @@ MEMBERS = [
     ),
     (
         "aloke",
-        "aloke@foundersweight.test",
+        "alokeconstance@gmail.com",
         "Aloke Nmesoma Constance",
-        "Managing Partner",
+        "Managing Director",
         "Wear Sonma",
         "Lagos",
         "Fashion designer and entrepreneur who models, customizes, and crafts her own statement apparel lines in Lagos.",
-        ["Fashion", "ReadyToWear", "BespokeApparel"],
+        ["Fashion", "Ready To Wear", "Bespoke Apparel"],
     ),
     (
         "bayonle",
-        "bl@foundersweight.test",
+        "bayonle.lawal40@gmail.com",
         "Bayonle Lawal",
         "Founder",
         "ONEBRICK Investment Ltd",
@@ -82,19 +82,19 @@ MEMBERS = [
     ),
     (
         "chiamaka",
-        "cno@foundersweight.test",
+        "nancychiamaka21@gmail.com",
         "Chiamaka Nancy Onyejekwe",
-        "Head of Growth",
-        "GrowthLab Africa",
+        "Founder & CEO ",
+        "Printnpak",
         "Lagos",
         "Salt Printlady. Client services expert. Graphics enthusiast, and Youth mentor.",
         ["Marketing", "Branding"],
     ),
     (
         "chinonso",
-        "coa@foundersweight.test",
+        "benitaofoegbu@yahoo.com",
         "Chinonso Ofoegbu",
-        "Founder",
+        "Business Owner",
         "Nita Summer The Label",
         "Lagos",
         "Lagos-based creative entrepreneur and clothing designer building a brand that empowers women worldwide.",
@@ -102,9 +102,9 @@ MEMBERS = [
     ),
     (
         "henry",
-        "hd@foundersweight.test",
+        "dukeweb.ng@gmail.com",
         "Henry Dukuye",
-        "Project Manager",
+        "Founder & CEO",
         "Duke Web Tech",
         "Abuja",
         "Agile project manager, software engineer, and digital solutions architect who specializes in translating complex processes into revenue-driving applications.",
@@ -112,7 +112,7 @@ MEMBERS = [
     ),
     (
         "entia",
-        "id@foundersweight.test",
+        "entiaduru@gmail.com",
         "Innocentia Duru",
         "Founder",
         "Xafarii",
@@ -122,7 +122,7 @@ MEMBERS = [
     ),
     (
         "judy",
-        "jg@foundersweight.test",
+        "gbadeboadedoyin.ag@gmail.com",
         "Judith Gbadebo",
         "Founder",
         "Your Quiet Therapist",
@@ -132,9 +132,9 @@ MEMBERS = [
     ),
     (
         "uju",
-        "on@foundersweight.test",
+        "ondedigweo@gmail.com",
         "Obianuju Ndedigwe",
-        "Founder",
+        "Operator/Executive",
         "LEAF Africa",
         "Lagos",
         "investment professional and business turnaround specialist with a background in pharmacy who evaluates commercial scaling systems across Africa.",
@@ -142,7 +142,7 @@ MEMBERS = [
     ),
     (
         "oghene",
-        "oe@foundersweight.test",
+        "oghenetejiriprogress@gmail.com",
         "Oghenetejiri Emuavobor,",
         "Business Owner",
         "Agba Vendor Ventures",
@@ -152,7 +152,7 @@ MEMBERS = [
     ),
     (
         "tobi",
-        "tobi@foundersweight.test",
+        "tobbyrhodes@gmail.com",
         "Tobi Adeoye",
         "Founder",
         "BrandQor",
@@ -162,7 +162,7 @@ MEMBERS = [
     ),
     (
         "paul",
-        "po@foundersweight.test",
+        "pauloyewusi77@gmail.com",
         "Paul Oyewusi",
         "Founder",
         "POMA Point",
@@ -172,9 +172,9 @@ MEMBERS = [
     ),
     (
         "dallas",
-        "ocd@foundersweight.test",
+        "cherylonyinye@gmail.com",
         "Onyinyechi C. Dallas",
-        "Entreprenuer",
+        "Business Owner",
         "The OCD Brand",
         "Lagos",
         "Beauty entrepreneur, educator, and master wig technician who hosts private advanced wig construction masterclasses.",
@@ -182,7 +182,7 @@ MEMBERS = [
     ),
     (
         "lara",
-        "oa@foundersweight.test",
+        "ogunwumi.oo@gmail.com",
         "Omorinsola Alatise",
         "Founder",
         "OMAL Co.",
@@ -192,15 +192,34 @@ MEMBERS = [
     ),
     (
         "olly",
-        "olly@foundersweight.test",
+        "olayinkaojophotography@gmail.com",
         "Olayinka Ono",
-        "Founder",
+        "Business Owner",
         "Itele Apoti Ltd & The Truthstudio",
         "Lagos",
         "Contemporary Nigerian fashion designer, garment engineer, and lifestyle creative who crafts premium clothing designed specifically for everyday longevity.",
         ["Fashion"],
     ),
-
+    (
+        "michael",
+        "michaelbello1505@gmail.com",
+        "Michael Bello",
+        "Business Owner",
+        "Tyor Tech",
+        "Lagos",
+        "Software developer and tech entrepreneur.",
+        ["Software Development", "Tech Startup"],
+    ),
+    (
+        "alex",
+        "lexobinna101@gmail.com",
+        "Alex Obinna",
+        "Business Owner",
+        "Sicoms Pay",
+        "Lagos",
+        "Software developer and tech entrepreneur.",
+        ["Software Development", "Tech Startup"],
+    ),
 ]
 
 BUSINESSES = [
@@ -351,6 +370,25 @@ BUSINESSES = [
         "Operating jointly as a custom atelier and creative agency, Itele Apoti Ltd produces high-end linen collections and luxury bespoke menswear under the thematic banner Made in Lagos for worthy men, while the visual wing, The Truthstudio, designs complementary minimalist streetwear",
         
     ),
+    (
+        "michael",
+        "Tyor Tech",
+        "Technology",
+        "Lagos",
+        "Software Development",
+        "engineering and technology company that builds software solutions for businesses and startups across Africa.",
+        
+    ),
+    (
+        "alex",
+        "Sicoms Pay",
+        "Technology",
+        "Lagos",
+        "Software Development",
+        "Sicoms Pay is a fintech company that builds software solutions for businesses and startups across Africa.",
+        
+    ),
+    
 ]
 
 # Modules: (key, is_active, order)
